@@ -1,3 +1,5 @@
+package chapterTwo;
+
 import java.util.Scanner;
 
 public class Arithmetic {
