@@ -9,8 +9,8 @@ public class SmallestLargest {
         double sum = 0;
         double average = 0;
         double product =1;
-        int smallest = 100;
-        int largest = 0;
+        int smallest = Integer.MAX_VALUE;
+        int largest = Integer.MIN_VALUE;
 
         for (int i = 1; i <=3 ; i++) {
             display();
